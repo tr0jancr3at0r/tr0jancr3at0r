@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">Привет👋, Я tr0jancr3at0r</h1>
+- 🔭 Работаю сейчас над проектом создания плагинов под [Funpay Cardinal](https://github.com/sidor0912/FunPayCardinal)
 
-<!--
-**tr0jancr3at0r/tr0jancr3at0r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 все мои проекты доступны по ссылке [https://github.com/tr0jancr3at0r](https://github.com/tr0jancr3at0r)
 
-Here are some ideas to get you started:
+- 📫 Telegram - **@BobrihaMSK**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
